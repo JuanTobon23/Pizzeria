@@ -24,18 +24,16 @@ javac -d bin src/*.java
 java -cp bin src.PizzaTrack
 ```
 
-## Pruebas de Consola (Capturas de Pantalla)
+## Pruebas de Consola 
+## (Revisar carpeta de imagenes)
 
-*(Usuario: Aquí puedes pegar las capturas de pantalla de tus pruebas)*
 
 ### 1. Registrar una Pizza
-![alt text](Registrar_pizza.png)
+
 
 ### 2. Mostrar Pedido Actual
-![alt text](Mostrar_pedido_actual.png)
 
 ### 3. Deshacer (Undo)
-![alt text](Undo.png)
 
 ### 4. Rehacer (Redo)
-![alt text](Redo.png)
+
